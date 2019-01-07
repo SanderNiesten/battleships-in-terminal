@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ead503b7-dbf9-4df7-8b3d-a5e64ef4a1be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2018-01-15 at 19.46.38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codaisseur projects/Tennis-Refactoring-Kata" beforeDir="false" afterPath="$PROJECT_DIR$/../../codaisseur projects/Tennis-Refactoring-Kata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codaisseur projects/active-record-bnb" beforeDir="false" afterPath="$PROJECT_DIR$/../../codaisseur projects/active-record-bnb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codaisseur projects/code/javascript/todojquery" beforeDir="false" afterPath="$PROJECT_DIR$/../../codaisseur projects/code/javascript/todojquery" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codaisseur projects/code/javascript/todojs" beforeDir="false" afterPath="$PROJECT_DIR$/../../codaisseur projects/code/javascript/todojs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codaisseur projects/day-2-ruby-basics" beforeDir="false" afterPath="$PROJECT_DIR$/../../codaisseur projects/day-2-ruby-basics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codaisseur projects/intermediate-bootcamp/codaisseurify" beforeDir="false" afterPath="$PROJECT_DIR$/../../codaisseur projects/intermediate-bootcamp/codaisseurify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codaisseur projects/schoolmatch" beforeDir="false" afterPath="$PROJECT_DIR$/../../codaisseur projects/schoolmatch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codaisseur projects/todo_on_rails" beforeDir="false" afterPath="$PROJECT_DIR$/../../codaisseur projects/todo_on_rails" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cropped/12671794_10207241462047095_974486072755630801_o (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cropped/12671794_10207241462047095_974486072755630801_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cropped/IMG-20160521-WA0009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cropped/IMG-20170517-WA0063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cropped/cropped.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Company Structure/src/BusinessEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Company Structure/src/BusinessEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Company Structure/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Company Structure/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Company Structure/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Company Structure/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Company Structure/src/SoftwareEngineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Company Structure/src/SoftwareEngineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Company Structure/src/TechnicalEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Company Structure/src/TechnicalEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jammming" beforeDir="false" afterPath="$PROJECT_DIR$/../jammming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ravenous" beforeDir="false" afterPath="$PROJECT_DIR$/../ravenous" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="183" column="40" selection-start-line="183" selection-start-column="40" selection-end-line="183" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="721" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="battleships-game-in-terminal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="battleships-game-in-terminal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="battleships-game-in-terminal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="battleships-game-in-terminal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546856304565" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main$Battleship" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main$Battleship" />
+      <module name="battleships-game-in-terminal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main$Battleship" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ead503b7-dbf9-4df7-8b3d-a5e64ef4a1be" name="Default Changelist" comment="" />
+      <created>1546855282296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546855282296</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.115068495" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/battleships-game-in-terminal.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="183" column="40" selection-start-line="183" selection-start-column="40" selection-end-line="183" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>battleships-game-in-terminal</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
